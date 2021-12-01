@@ -1,0 +1,2 @@
+# skupinovka
+Práce skupiny DeJJaVi
